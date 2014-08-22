@@ -143,5 +143,8 @@ Utilize above information to make a description of each column as follows:
 </table>
 
 
+## Description of summary data
+The summary data used the same column namming rule as the integrated data, it contains only the mean and standard deviation type (mean() and std()) column of orginal data which was extraced in data process and then average them by activity and subject. So please reference front description of variables to understand that.
+
 
 
